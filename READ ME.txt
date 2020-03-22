@@ -1,0 +1,5 @@
+Steps to follow:
+1. Create the Recommendation system
+2. Create an output with the recommendation
+3. Show with the API the top N results
+4. Using "Postman" we can test our API
